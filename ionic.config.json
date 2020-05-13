@@ -1,0 +1,7 @@
+{
+  "name": "devdactickTracking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
