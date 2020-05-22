@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+<<<<<<< HEAD
     <string name="app_name">public_bus_tracking_app</string>
     <string name="title_activity_main">public_bus_tracking_app</string>
+=======
+    <string name="app_name">devdactickTracking</string>
+    <string name="title_activity_main">devdactickTracking</string>
+>>>>>>> e615d571d4f64a3f18490296d80e83375d4edfb0
     <string name="package_name">io.ionic.starter</string>
     <string name="custom_url_scheme">io.ionic.starter</string>
 </resources>

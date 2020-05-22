@@ -1,6 +1,10 @@
 {
   "appId": "io.ionic.starter",
+<<<<<<< HEAD
   "appName": "public_bus_tracking_app",
+=======
+  "appName": "devdactickTracking",
+>>>>>>> e615d571d4f64a3f18490296d80e83375d4edfb0
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
