@@ -1,5 +1,5 @@
 {
-  "name": "devdactickTracking",
+  "name": "public_bus_tracking_app",
   "integrations": {
     "capacitor": {}
   },
